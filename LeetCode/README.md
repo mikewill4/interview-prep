@@ -9,5 +9,7 @@
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26. Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [27. Remove element](https://leetcode.com/problems/remove-element/)
+* [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 ## Medium
 ## Hard
