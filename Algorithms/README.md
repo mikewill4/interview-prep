@@ -1,4 +1,5 @@
-# Alrogithms
+# Algorithms
 ## Sub-topics
 * Big-O
-* etc
+* KMP
+* Kadane's Algorithm
