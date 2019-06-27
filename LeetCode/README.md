@@ -12,5 +12,6 @@
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 ## Medium
 ## Hard
