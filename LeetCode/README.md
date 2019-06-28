@@ -14,5 +14,6 @@
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
+* [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 ## Medium
 ## Hard
