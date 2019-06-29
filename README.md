@@ -1,8 +1,8 @@
 # Interview Preparation
 ## Coding challenges
-* [LeetCode](https://leetcode.com/)
-* [HackerRank](https://www.hackerrank.com/)
-* [Project Euler](https://projecteuler.net/)
+* [LeetCode](https://github.com/mikewill4/interview-prep/tree/master/LeetCode)
+* [HackerRank](https://github.com/mikewill4/interview-prep/tree/master/HackerRank)
+* [Project Euler](https://github.com/mikewill4/interview-prep/tree/master/Project%20Euler)
 ## Topics
 * [Algorithms](https://github.com/mikewill4/interview-prep/tree/master/Algorithms)
 * [Data Structures](https://github.com/mikewill4/interview-prep/tree/master/Data%20Structures)
