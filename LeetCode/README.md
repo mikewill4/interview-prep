@@ -17,6 +17,7 @@
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 ## Medium
