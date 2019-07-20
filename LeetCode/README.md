@@ -22,6 +22,7 @@
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
+* [169. Majority Element](https://leetcode.com/problems/majority-element/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 ## Medium
 ## Hard
