@@ -17,6 +17,7 @@
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
