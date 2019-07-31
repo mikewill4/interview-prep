@@ -17,6 +17,7 @@
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
+* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/)
