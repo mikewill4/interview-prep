@@ -1,6 +1,7 @@
-# Solved LeetCode challenges
+# LeetCode Problems
 [LeetCode](https://leetcode.com)
-## Easy
+## Solved
+### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -26,8 +27,23 @@
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/)
-* [171. Excel Sheet Column
-* Number](https://leetcode.com/problems/excel-sheet-column-number/)
+* [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
-## Medium
-## Hard
+### Medium
+### Hard
+
+## To-do list
+### Easy
+### Medium
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+* [220. Contains Duplicates III](https://leetcode.com/problems/contains-duplicate-iii/description/)
+* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+* [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
+### Hard
+* [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/)
+* [135. Candy](https://leetcode.com/problems/candy/description/)
+* [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)
+* [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
