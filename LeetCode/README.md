@@ -34,6 +34,27 @@
 
 ## To-do list
 ### Easy
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+* [100. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [112. Path Sum](https://leetcode.com/problems/path-sum/)
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+* [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+* [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* [155. Min Stack](https://leetcode.com/problems/min-stack/)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+* [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+* [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+* [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+* [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+* [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 ### Medium
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
