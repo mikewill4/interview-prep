@@ -1,0 +1,4 @@
+# Sockets
+* End point of communication
+* Message must traverse underlying network
+* Messages can go in and out of sockets
