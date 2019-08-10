@@ -30,6 +30,7 @@
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+* [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 ### Medium
 ### Hard
@@ -49,7 +50,6 @@
 * [155. Min Stack](https://leetcode.com/problems/min-stack/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-* [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 * [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 * [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 * [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
