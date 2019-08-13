@@ -4,12 +4,12 @@
 ## Solution
 ```python
 class Solution:
-	def trailingZeroes(self, int: n) -> int:
-		numZeroes = count = 0
-		while count <= n:
-			if count % 5 == 0:
-				numZeroes += 1
-			if count % 25 == 0:
-				numZeroes += 1
-		return numZeroes
+    def trailingZeroes(self, n: int) -> int:
+        numZeroes = 0
+        if n < 5:
+            return 0
+        while n > 0:
+            numZeroes += n // 5
+            n //= 5
+        return numZeroes
 ```
