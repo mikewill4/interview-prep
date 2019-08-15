@@ -20,6 +20,7 @@
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -41,7 +42,6 @@
 
 ## To-do list
 ### Easy
-* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * [100. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
