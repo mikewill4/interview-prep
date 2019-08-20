@@ -26,3 +26,10 @@
 * Translate hostname to IP address
 * Identify service's port number using service name and protocol
 * Establish connection
+## Server preparing a socket
+* int bind(int sockfd, struct sockaddr, *my_addr, socklen_t addrlen)
+* Bind socket to local address and port number
+* Define how many connections can be pending
+* int list(int sockfd, int backlog)
+* Accept new client connection
+* int accept(int sockfd, struct sockaddr *addr, socketlen_t *addrlen)
