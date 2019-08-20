@@ -36,3 +36,8 @@
 	* Send data to socket
 	* Close socket
 * Repeat for each connection
+## Examples
+* [Apache Web Server](http://www.apache.org)
+* [Mozilla Web browser](http://www.mozilla.org/developer/)
+* [Sendmail](http://www.sendmail.org/)
+* [BIND Domain Name System](http://www.isc.org/index.pl?/sw/bind/)
