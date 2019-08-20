@@ -6,8 +6,8 @@
 * Destination port uniquely identifies a socket to use
 * 16-bit quantity
 * Common ports:
-	* 22 (ssh)
-	* 23 (ftp)
+	* 21 (ftp)
+	* 21 (ssh)
 	* 25 (email)
 	* 80 (http)
 	* 443 (https)
