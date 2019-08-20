@@ -16,5 +16,23 @@
 * Close the socket
 ## Server
 * Always on
-* Fulfills requests from many clients
 * Fixed, well-known address
+* Passive open
+	* Prepare to accept connection
+	* Don't establish connection until heard from client
+* Multiple clients
+	* Allow backlog of waiting clients
+	* Create a new socket for each client 
+## Typical server program
+* Prepare to communicate
+	* Create socket
+	* Associate local address and port with socket
+* Wait to hear from client (passive open)
+	* Indicate how many clients waiting
+	* Accept incoming connection from client
+* Exchange data with client over new socket
+	* Receive data from socket
+	* Handle request
+	* Send data to socket
+	* Close socket
+* Repeat for each connection
