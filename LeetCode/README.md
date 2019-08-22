@@ -34,6 +34,7 @@
 * [169. Majority Element](https://leetcode.com/problems/majority-element/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+* [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 * [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 * [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
@@ -52,7 +53,6 @@
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-* [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 * [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 ### Medium
