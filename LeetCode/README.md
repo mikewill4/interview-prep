@@ -29,6 +29,7 @@
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [112. Path Sum](https://leetcode.com/problems/path-sum/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
@@ -47,7 +48,6 @@
 
 ## To-do list
 ### Easy
-* [112. Path Sum](https://leetcode.com/problems/path-sum/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
