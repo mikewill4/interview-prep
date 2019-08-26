@@ -31,6 +31,7 @@
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * [112. Path Sum](https://leetcode.com/problems/path-sum/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
@@ -49,7 +50,6 @@
 
 ## To-do list
 ### Easy
-* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
