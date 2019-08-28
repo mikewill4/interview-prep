@@ -9,3 +9,4 @@
 * Newton's method (for finding sqrts)
 * Euclidean path
 * Fisher-Yates shuffle
+* Counting sort
