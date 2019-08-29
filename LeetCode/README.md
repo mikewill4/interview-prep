@@ -45,6 +45,7 @@
 * [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 * [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/)
 ### Medium
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
 ### Hard
@@ -111,6 +112,7 @@
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
 * [220. Contains Duplicates III](https://leetcode.com/problems/contains-duplicate-iii/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+* [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 * [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
 ### Hard
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/)
