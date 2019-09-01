@@ -47,6 +47,7 @@
 * [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/)
+* [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 ### Medium
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
 ### Hard
