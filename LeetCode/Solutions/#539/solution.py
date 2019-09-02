@@ -1,8 +1,3 @@
-# 539. Minimum Time Difference
-## Problem
-[Link](https://leetcode.com/problems/minimum-time-difference/description/)
-## Solution
-```python
 class Solution:
     def findMinDifference(self, timePoints: List[str]) -> int:
         # Convert times to minutes
@@ -37,4 +32,3 @@ class Solution:
                 ptrTwo = -1
                 
         return abs(minDiff) if abs(minDiff) < (1440 - last + first) else 1440 - last + first
-```

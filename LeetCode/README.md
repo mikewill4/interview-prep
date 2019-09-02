@@ -51,6 +51,7 @@
 ### Medium
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+* [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 * [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
 ### Hard
 
