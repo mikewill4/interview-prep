@@ -50,6 +50,7 @@
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 ### Medium
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
+* [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
 ### Hard
 
 ## To-do list
