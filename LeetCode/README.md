@@ -62,6 +62,7 @@
 ### Easy
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 ### Medium
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
