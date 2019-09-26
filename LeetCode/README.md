@@ -49,6 +49,7 @@
 * [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
