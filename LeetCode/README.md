@@ -51,6 +51,7 @@
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/)
