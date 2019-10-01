@@ -48,6 +48,7 @@
 * [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 * [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+* [202. Happy Number](https://leetcode.com/problems/happy-number/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
