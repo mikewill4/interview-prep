@@ -54,6 +54,7 @@
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+* [258. Add Digits](https://leetcode.com/problems/add-digits/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
