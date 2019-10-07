@@ -56,6 +56,7 @@
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/)
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
